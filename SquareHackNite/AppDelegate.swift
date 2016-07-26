@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  SquareHackNite
-//
-//  Created by Allyson Schrader on 7/19/16.
-//  Copyright © 2016 SHN. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain

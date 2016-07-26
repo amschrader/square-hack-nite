@@ -1,11 +1,3 @@
-//
-//  ViewController.swift
-//  SquareHackNite
-//
-//  Created by Allyson Schrader on 7/19/16.
-//  Copyright © 2016 SHN. All rights reserved.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
@@ -50,6 +42,12 @@ class ViewController: UIViewController {
     } else {
       button.backgroundColor = UIColor.redColor()
     }
+  }
+
+  func openRegister(price: Int) {
+    let url = NSURL(fileURLWithPath: "")
+
+    //SCCAPIRequest
   }
 
 
